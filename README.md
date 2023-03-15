@@ -3,5 +3,5 @@ planning 10-03-2023
 
 planning 15-03-2023
 # Vandaag 2x een cjv afvinken (HTML & JS)
-# en verder gaan met de opdrachten van HTML en misschien JS
+# Verder gaan met de opdrachten van HTML en misschien JS
 # Uitleg vragen over THA opdracht 10
