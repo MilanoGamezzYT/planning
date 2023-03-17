@@ -8,3 +8,6 @@ planning 15-03-2023
 
 Planning 16-03-2023
 # CJV python THA & JS, Vragen over THA 
+
+planning 17-03-2023
+# Verder met de DRY Ijssalon
