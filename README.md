@@ -5,7 +5,9 @@ planning 21-03-2023
 # Verder met Buttons 3.0 (JS) en CJV 20 afvinken (Python)
 
 planning 17-03-2023
-# Verder met de DRY Ijssalonplanning 10-03-2023
+# Verder met de DRY Ijssalon
+
+planning 10-03-2023
 # Vandaag (Python) THA opdracht 10 maken 
 
 Planning 16-03-2023
