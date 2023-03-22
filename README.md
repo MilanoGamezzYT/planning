@@ -1,3 +1,6 @@
+planning 22-03-2023
+# Verder met MeesterProef (JS) En een paar CJV's laten vinken
+
 planning 21-03-2023
 # Verder met Buttons 3.0 (JS) en CJV 20 afvinken (Python)
 
