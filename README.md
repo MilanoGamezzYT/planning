@@ -1,3 +1,6 @@
+planning 23-03-2023
+# Meesterproef (JS) afmaken & Python verder met Ijssalon
+
 planning 22-03-2023
 # Verder met MeesterProef (JS) en een paar CJV's laten vinken
 
