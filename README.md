@@ -1,3 +1,6 @@
+planning 24-03-2023
+# DRY ijssalon verder maken
+
 planning 23-03-2023
 # Meesterproef (JS) afmaken & Python verder met Ijssalon
 
