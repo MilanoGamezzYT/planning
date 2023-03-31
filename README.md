@@ -1,3 +1,6 @@
+planning 31-03-2023
+# DRY ijssalon maken
+
 planning 28-03-2023
 # Meesterproef (JS) verder maken/verbeteren
 
