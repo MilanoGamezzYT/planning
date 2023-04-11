@@ -1,4 +1,4 @@
-planning 11=04-2023
+planning 11-04-2023
 # verder met de stemwijzer (JS)
 
 planning 31-03-2023
