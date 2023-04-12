@@ -1,3 +1,6 @@
+planning 12-04-2023
+# StemWijzer afmaken (JS)
+
 planning 11-04-2023
 # verder met de stemwijzer (JS)
 
