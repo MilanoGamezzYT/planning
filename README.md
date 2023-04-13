@@ -1,3 +1,7 @@
+planning 13-04-2023
+# Verder met Flowchart/Trelloboard (JS
+# Stemwijzer)
+
 planning 12-04-2023
 # StemWijzer afmaken (JS)
 # Verder met de DRY Ijssalon (Python)
