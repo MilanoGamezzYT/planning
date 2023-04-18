@@ -1,3 +1,7 @@
+planning 18-04-2023
+# CJV 25 laten vinken (JS)
+# Daarna verder met de laatste opdracht
+
 planning 13-04-2023
 # Verder met Flowchart/Trelloboard (JS
 # Stemwijzer) 
