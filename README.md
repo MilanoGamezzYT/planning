@@ -1,3 +1,6 @@
+planning 21-04-2023
+# Flowchart (JS) stukje opnieuw maken
+
 planning 18-04-2023
 # CJV 25 laten vinken (JS)
 # Daarna verder met de laatste opdracht
